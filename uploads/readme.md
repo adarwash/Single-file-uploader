@@ -1,1 +1,1 @@
-All the files uploads will be stored here
+All the files uploaded will be stored here
